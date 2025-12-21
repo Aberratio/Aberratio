@@ -47,21 +47,22 @@ I'm currently deep into **AI-assisted development** - not as a substitute for th
   <summary><h3>More tooling I use (click to expand) 👇</h3></summary>
 
 **Testing & API:** Postman, Insomnia, Swagger, BrowserStack, Lighthouse  
-**Analytics:** Hotjar, Mouseflow, Analytics  
+**Analytics:** Hotjar, Mouseflow, Google Analytics  
 **UI/Design:** Storybook, Figma  
-**Version control:** git (GitHub, GitLab, Bitbucket)  
+**Version control:** git, but I also had a three-year incident with svn 😏  
 **Monitoring:** Sentry, Chrome DevTools, React DevTools  
 **CMS/DB:** Sanity.io, MySQL  
 **Management:** Jira, Confluence, Trello, Scrum
 </details>
 
 ## Some facts
-- Too much coffee, lots of flow states.  
-- I code to metal/rock (and anything with energy).  
-- I love frameworks, but sometimes "plain" is the cleanest solution.  
+- Too much coding.
+- Too much coffee.  
+- I code to metal/rock.  
+- I love experimenting with new tools.  
 - You can message me in **Polish / English / German**.
 
 ## Contact
-Website: https://webcodesign.pl/m  
+Website: https://webcodesign.pl/ 
 LinkedIn: https://www.linkedin.com/in/joanna-kokot-it/  
 Email: joanna@kokot.it

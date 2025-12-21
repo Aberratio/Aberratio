@@ -58,11 +58,11 @@ I'm currently deep into **AI-assisted development** - not as a substitute for th
 ## Some facts
 - Too much coding.
 - Too much coffee.  
-- I code to metal/rock.  
-- I love experimenting with new tools.  
+- Too much music.  
+- Love experimenting with new tools.  
 - You can message me in **Polish / English / German**.
 
 ## Contact
-Website: https://webcodesign.pl/ 
-LinkedIn: https://www.linkedin.com/in/joanna-kokot-it/  
+Website: https://webcodesign.pl/ </br>
+LinkedIn: https://www.linkedin.com/in/joanna-kokot-it/ </br>
 Email: joanna@kokot.it
